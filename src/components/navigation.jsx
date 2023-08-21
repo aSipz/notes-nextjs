@@ -13,13 +13,7 @@ export default () => (
                 notes
             </Link>
 
-            <a sx={{
-                color: 'text',
-                fontSize: 3,
-                cursor: 'pointer'
-            }}
-                href={process.env.HELP_APP_URL}
-            >
+            <a sx={{ color: 'text', fontSize: 3, cursor: 'pointer' }} href={process.env.HELP_APP_URL} >
                 Help
             </a>
 
