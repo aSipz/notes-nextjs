@@ -18,7 +18,12 @@ const theme = {
         }
     },
     styles: {
-        ...roboto.styles
+        ...roboto.styles,
+        a: {
+            ...roboto.styles.a,
+            textDecoration: 'none',
+            color: 'text'
+        }
     }
 };
 
