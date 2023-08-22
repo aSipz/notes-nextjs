@@ -1,2 +1,4 @@
 # notes-nextjs
- simple notes app with next.js
+ First simple app with Next.js
+
+[Deployed on Vercel](https://notes-nextjs-omega.vercel.app/)
